@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rahul Gujjar</h1>
-<h3 align="center">Enthusiastic full stack developer with 1 year hands on self learning experience in Java, TypScript, MERN, Next, AWS. Loves Problem Solving and to unravel the mysteries behind the magic of computer science</h3>
+<h3 align="center">Enthusiastic full stack developer with 1 year hands on self learning experience in TypScript, MERN, Next, Websocket, AWS, k8s. Loves Problem Solving and to unravel the mysteries behind the magic of computer science</h3>
 
 <p align="left"> <a href="https://x.com/rahul_meX" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_meX?logo=twitter&style=for-the-badge" alt="rahul_meX" /></a> </p>
 
-- 🔭 I’m currently working on **E-commers Application**
+- 🔭 I’m currently working on **Metaverse Application**
 
-- 🌱 I’m currently learning **Next | Kubernetes**
+- 🌱 I’m currently learning **Next | Kubernetes | Websocket**
 
-- 👨‍💻 All of my projects are available at [https://gilded-sunburst-213ae8.netlify.app/](https://gilded-sunburst-213ae8.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portify-rho.vercel.app/](https://portify-rho.vercel.app/)
 
 - 💬 Ask me about **Next | React | Node | TypeScript**
 
 - 📫 How to reach me **rahul.mymail1@gmail.com**
 
-- 📄 Know about my experiences [https://t.ly/xA7v0](https://t.ly/xA7v0)
+- 📄 Know about my experiences [https://rb.gy/cdhsml](https://rb.gy/cdhsml)
 
 - ⚡ Fun fact **I love Coffee than Tea**
 

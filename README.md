@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next | Kubernetes | Websocket**
 
-- 👨‍💻 All of my projects are available at [https://portify-rho.vercel.app/](https://portify-rho.vercel.app/)
-
 - 💬 Ask me about **Next | React | Node | TypeScript**
 
 - 📫 How to reach me **rahul.mymail1@gmail.com**

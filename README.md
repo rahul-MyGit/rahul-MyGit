@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **rahul.mymail1@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/cdhsml](https://rb.gy/cdhsml)
-
 - ⚡ Fun fact **I love Coffee than Tea**
 
 <h3 align="left">Connect with me:</h3>

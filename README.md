@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rahul Gujjar</h1>
-<h3 align="center">Enthusiastic full stack developer with 1 year hands on self learning experience in TypScript, MERN, Next, Websocket, AWS, k8s. Loves Problem Solving and to unravel the mysteries behind the magic of computer science</h3>
+<h2 align="center">Product Lead (remote UAE)</h2>
+<h3 align="center">Full stack developer with 1 year of hands on experience in TypScript, MERN, Next, Websocket, AWS, k8s. Loves Problem Solving and to unravel the mysteries behind the magic of computer science</h3>
 
 <p align="left"> <a href="https://x.com/rahul_meX" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_meX?logo=twitter&style=for-the-badge" alt="rahul_meX" /></a> </p>
 
-- 🔭 I’m currently working on **Metaverse Application**
+- 🔭 I’m currently working on **B2B SaaS**
 
-- 🌱 I’m currently learning **Next | Kubernetes | Websocket**
+- 🌱 I’m currently learning **WEB3 | Kubernetes**
 
-- 💬 Ask me about **Next | React | Node | TypeScript**
+- 💬 Ask me about **System Design | Networking**
 
 - 📫 How to reach me **rahul.mymail1@gmail.com**
 

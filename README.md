@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```typescript
 const rahul = {
@@ -30,15 +30,15 @@ const rahul = {
 };
 ```
 
-- 🔭 Currently building scalable products & contributing to open source
-- 🎙️ Featured on [Harkirat Singh's Podcast](https://youtu.be/SweexyXMYYc)
-- 🌱 Exploring **Transformers**, **web3 (solana)**, and **distributed architectures**
-- 💬 Ask me about **TypeScript, Python, Rust, Next.js, System Design, DevOps**
-- 📫 Reach me at **rahul.mymail1@gmail.com**
+- Currently building scalable products & contributing to open source
+- Featured on [Harkirat Singh's Podcast](https://youtu.be/SweexyXMYYc)
+- Exploring **Transformers**, **web3 (solana)**, and **distributed architectures**
+- Ask me about **TypeScript, Python, Rust, Next.js, System Design, DevOps**
+- Reach me at **rahul.mymail1@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,express,fastapi&theme=dark" alt="Languages & Frameworks"/>
@@ -49,7 +49,7 @@ const rahul = {
 
 ---
 
-### 💼 Experience Highlights
+### Experience Highlights
 
 | Company | Role | Duration | Tech |
 |---------|------|----------|------|
@@ -59,7 +59,7 @@ const rahul = {
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -103,6 +103,6 @@ const rahul = {
 </p>
 
 <p align="center">
-  <b>Let's build something amazing together! 🚀</b>
+  <b>Let's build something amazing together :-)</b>
 </p>
 

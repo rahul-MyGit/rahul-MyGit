@@ -53,7 +53,7 @@ const rahul = {
 
 | Company | Role | Duration | Tech |
 |---------|------|----------|------|
-| **CaseBase** | Full Stack Dev | Jun 2025 - Present | RAG, MERN, WebSocket, TypeScript |
+| **CaseBase** | Full Stack Dev | Jun 2025 - Mar 2025 | RAG, MERN, WebSocket, TypeScript |
 | **QuickSaaS** | Product Lead | Jan 2025 - Jun 2025 | Next.js, AWS, Multi-tenant SaaS |
 | **100xDevs** | Full Stack Developer | Aug 2024 - Jan 2025 | K8s, RabbitMQ, Puppeteer |
 
